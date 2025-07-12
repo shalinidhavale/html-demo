@@ -1,4 +1,4 @@
 # html-demo
 This is my html project Repository
 <br>
-Author - Shalinee Dhavale
+Author - Shalinee Dhavale (practice)
